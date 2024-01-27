@@ -1,1 +1,1 @@
-This is a Project to calculate Expenses.
+This is a Project to calculate Expenses and you can also calculate monthly Expenses.
