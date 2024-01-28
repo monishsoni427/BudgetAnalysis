@@ -22,5 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Prettier
-/Prettierc
+
+# logs file
+/mylogs.log
+*.log   
+ignore/
